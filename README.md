@@ -1,1 +1,3 @@
-# Controlando-o-mouse-com-as-maos
+Um código que torna o usuário capaz de controlar a seta do mouse, o microfone e a tecla enter com gestos de mão.
+
+Irei gravar um  vídeo para o youtube mostrando o resultado do código...
