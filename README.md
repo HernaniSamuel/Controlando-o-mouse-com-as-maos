@@ -4,7 +4,7 @@ Os comandos são:
   
   -clicar com o botão direito: abaixe o dedo médio enquanto mantem todos os outros dedos levantados e levante-o logo em seguida para não haver cliques indesejados com o botão direito;
   
-  -pesquisa por voz: abaixe o dedo anelar enquanto mantem todos os outros dedos levantados, levante o dedo e  diga o que quer pesquisar;
+  -pesquisa por voz: abaixe o dedo anelar enquanto mantem todos os outros dedos levantados, levante o dedo e, após o som, diga o que quer pesquisar;
   
   -clica e arrasta: abaixe o dedo mindinho e enquanto ele estiver abaixado, o arrasto ocorrerá. Não há problema em fechar a mão no gesto de arrastar, desde que o dedo mindinho seja o último a ser levantado;
   
