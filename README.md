@@ -9,5 +9,3 @@ Os comandos são:
   -clica e arrasta: abaixe o dedo mindinho e enquanto ele estiver abaixado, o arrasto ocorrerá. Não há problema em fechar a mão no gesto de arrastar, desde que o dedo mindinho seja o último a ser levantado;
   
  Não coloquei comandos para o dedo polegar para que o controle pudesse ser feito com a mão direita ou a mão esquerda sem complicações.
- 
- Em breve postarei um vídeo no youtube mostrando a execução do código.
