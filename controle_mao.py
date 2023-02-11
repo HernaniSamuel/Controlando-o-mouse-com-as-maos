@@ -49,7 +49,7 @@ while True:
                 cx, cy = int((cord.x*1920-1920)*-1), int(cord.y*1080)
                 pontos.append((cx, cy))
 
-            # Quadros da tela (Dividi a tela em quatro quadros para amplificar o movimento do cursor)
+            # Quadros da tela (Divide a tela em quatro quadros para amplificar o movimento do cursor)
             # superior esquerdo
             if pontos[9][0] < metade_largura and pontos[9][1] < metade_altura:
                 horizontal = metade_largura - pontos[9][0]
