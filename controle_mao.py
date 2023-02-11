@@ -46,7 +46,7 @@ while True:
         for points in handsPoints:
             mpDraw.draw_landmarks(img, points, hand.HAND_CONNECTIONS)
             for id, cord in enumerate(points.landmark):
-                cx, cy = int((cord.x*1920-1920)*-1), int(cord.y*1080)
+                cx, cy = int((cord.x*largura-largura)*-1), int(cord.y*altura)
                 pontos.append((cx, cy))
 
             # Quadros da tela (Divide a tela em quatro quadros para amplificar o movimento do cursor)
