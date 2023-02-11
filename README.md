@@ -1,4 +1,4 @@
-O código neste repositório possibilita o controle da setinha do mouse na tela através de gestos com a mão.
+O código neste repositório possibilita o controle do cursor através de gestos com a mão.
 Os comandos são: 
   -clicar: abaixe o dedo indicador enquanto mantem os outros dedos levantados e levante logo em seguida para não haver cliques indesejados;
   
