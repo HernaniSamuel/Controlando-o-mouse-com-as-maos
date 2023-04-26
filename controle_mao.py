@@ -5,6 +5,7 @@ from time import sleep
 import speech_recognition as sr
 import pygame
 
+
 pygame.init()
 
 video = cv2.VideoCapture(0)
@@ -99,6 +100,3 @@ while True:
                 sleep(0.3)
                 pyautogui.write(ouvir_microfone())
                 pyautogui.press('enter')
-
-    cv2.imshow('imagem', img)
-    cv2.waitKey(1)
