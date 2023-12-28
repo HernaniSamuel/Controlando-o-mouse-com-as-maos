@@ -22,7 +22,7 @@
 <p>Os comandos são projetados para serem intuitivos e permitir o controle do mouse com ambas as mãos.</p>
 
 <h2>Como Usar</h2>
-    p>Para usar este projeto, execute o script <code>controle_mao.py</code>. Certifique-se de ter uma webcam conectada e funcionando para o rastreamento de gestos.</p>
+<p>Para usar este projeto, execute o script <code>controle_mao.py</code>. Certifique-se de ter uma webcam conectada e funcionando para o rastreamento de gestos.</p>
 <h2>Licença</h2>
 <p>O projeto é distribuído sob a licença MIT, conforme detalhado no arquivo <code>LICENSE</code>.</p>
 
